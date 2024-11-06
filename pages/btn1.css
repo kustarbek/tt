@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+.retfy{
+    width: 1110px;
+    height: 500px;
+    margin: auto;
+}
+  .vbgtr{
+    margin-top: 50px;
+  } 
