@@ -20,6 +20,7 @@
       user-select: none;
       font-weight: bolder;
       color: black;
+      margin-top: 100px;
   }
   .file:hover {
       border: 1px solid black;
@@ -366,9 +367,12 @@
       background-color: #FF553E;
       margin-top: 320px;
     }
+
+
     .headerContainer{
       width: 1450px;
       height: 50px;
+      margin: 0 auto;
   }
   .logo{
       display: flex;
@@ -538,3 +542,8 @@
     .button2:hover .arrow:before {
       right: 0;
     }
+  .dhmjfhwjfjeh{
+    width: 1450px;
+      height: 50px;
+      margin: 0 auto;
+  }
